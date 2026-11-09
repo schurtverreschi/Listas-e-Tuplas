@@ -8,3 +8,4 @@ Revisar e reforçar os conhecimentos aprendidos de listas e tuplas
 - registro_voluntários: utiliza loop while e comparador if para incluir nomes numa lista até que seja digitado sair, encerrando o loop e exibindo a lista com os nomes registrados;
 - estoque: recebe via input duas lista e converte para tupla, devolve as duas tuplas unificadas;
 - convidados: utiliza método insert para acrescentar nome a lista diretamente na posição desejada;
+- correção_lista: verifica se o nome informado está na lista, pega a posição dele na lista, insere outro nome no lugar e remove o original da lista, para realizar a substituição do nome por outro mantendo a posição;
